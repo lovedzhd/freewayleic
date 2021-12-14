@@ -9,28 +9,15 @@
 
 ### Repositório de código
 
-1) Link para o repositório do GitHub: https://github.com/lovedzhd/freewayleic
-
-2) Adicionar, como colaborador com permissão de leitura (*role read*):
-
-- https://github.com/AfonsoSalgadoSousa
-- https://github.com/jlopes60
-- https://github.com/nmacedo
-- https://github.com/rpmcruz
-- https://github.com/eSoares
-- https://github.com/pbv
-- https://github.com/imdcode
-- https://github.com/acoelho-fe-up-pt
+Link para o repositório do GitHub: https://github.com/lovedzhd/freewayleic
 
 ### Descrição
 
-*---É um jogo de puzzle em que o objetivo do jogo é empurrar caixotes para um sítio indicado. 
-Para empurrar o caixote é preciso ir ao outro lado empurrá-lo. 
-Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Estamos a utilizar os níveis do XSokoban.---*
+*---É um jogo em que o objetivo é controlar uma galinha que quer chegar ao outro lado da estrada sem ser atropelada pelos automóveis. Pretendo adicionar um modo multijogador e personagens desbloqueáveis.---*
 
 ### UI
 
-![UI](ui.png)
+
 
 ### Pacotes
 
@@ -38,9 +25,10 @@ Ou seja, se ele ficar junto à parede, a pessoa precisa de reiniciar o jogo. Est
 
 ### Tarefas
 
-1. carregar os níveis
-1. desenhar a matriz do nível
-1. ler teclas e mover as peças
-2. verificar se jogador chegou ao fim do nível
+1. desenhar os personagens e mapa
+2. carregar o mapa com o personagem
+3. ler teclas e mover o personagem
+4. verificar se o personagem chegou ao fim da estrada, adicionar um ponto e reiniciar a sua posição assim que isso aconteça
+5. adicionar um menu em que se pode escolher o personagem e modo de jogo (single ou multiplayer)
 
-- Atualizado a última vez em 07/12/2021
+- Atualizado a última vez em 14/12/2021
