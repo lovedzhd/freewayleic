@@ -1,4 +1,4 @@
-# Projeto A Galinha que atravessou a rua
+# Projeto "A galinha que atravessou a rua"
 ## FPRO/LEIC, 2021/22
 ## Daniel José de Aguiar Gago (up202108791)
 ## 1LEIC09
@@ -9,7 +9,7 @@
 
 ### Repositório de código
 
-1) Link para o repositório do GitHub: https://github.com/@author/xxx
+1) Link para o repositório do GitHub: https://github.com/lovedzhd/freewayleic
 
 2) Adicionar, como colaborador com permissão de leitura (*role read*):
 
