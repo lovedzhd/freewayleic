@@ -22,6 +22,9 @@ Link para o repositório do GitHub: https://github.com/lovedzhd/freewayleic
 ### Pacotes
 
 - Pygame
+- Random
+- Math
+- OS
 
 ### Tarefas
 
