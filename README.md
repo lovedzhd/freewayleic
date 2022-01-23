@@ -25,13 +25,13 @@ Link para o repositório do GitHub: https://github.com/lovedzhd/freewayleic
 
 ### Tarefas
 
-1. desenhar os personagens e mapa
-2. carregar o mapa com o personagem
-3. ler teclas e mover o personagem
-4. verificar se o personagem chegou ao fim da estrada, adicionar um ponto e reiniciar a sua posição assim que isso aconteça
-5. adicionar automoveis e colisões
-6. adicionar 2º personagem para competir
-7. adicionar efeitos sonoros
-8. adicionar um timer e anunciar o vencedor quando o timer chegar ao fim
+1. desenhar os personagens e mapa - DONE
+2. carregar o mapa com o personagem - DONE
+3. ler teclas e mover o personagem - DONE
+4. verificar se o personagem chegou ao fim da estrada, adicionar um ponto e reiniciar a sua posição assim que isso aconteça - DONE
+5. adicionar automoveis e colisões - DONE
+6. adicionar 2º personagem para competir - DONE
+7. adicionar efeitos sonoros - DONE
+8. adicionar um timer e anunciar o vencedor quando o timer chegar ao fim - DONE
 
-- Atualizado a última vez em 15/01/2022
+- Atualizado a última vez em 23/01/2022
